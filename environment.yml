@@ -1,0 +1,16 @@
+name: intro_to_transformers_env
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - ipykernel
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip:
+    - datasets
+    - transformers
