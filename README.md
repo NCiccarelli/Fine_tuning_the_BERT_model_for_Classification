@@ -3,6 +3,7 @@ In this repo, we fine tune the BERT model to perform classification on the IMDB 
 
 **Libraries and installations**
 
+
 The libraries that are used in this repo are reported in the "environment.yml" file. 
 
 To install the libraries, execute the following command in Anaconda Prompt: 
