@@ -17,4 +17,6 @@ After the libraries are installed, execute in Anaconda Prompt:
 
  The latter command is used to install the environment as a kernel in Jupyter notebooks. 
 
+**Fine tuning the BERT model for text classification**
 
+The code that fine-tunes the BERT model for text classification is reported in the repo's jupyter notebook. 
