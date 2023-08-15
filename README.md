@@ -1,4 +1,4 @@
-# Fine_tuning_the_BERT_model_for_Classification
+# Fine tuning the BERT model for text classification
 In this repo, we fine tune the BERT model to perform classification on the IMDB dataset
 
 **Libraries and installations**
